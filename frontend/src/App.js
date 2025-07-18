@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ChatBox from "./components/ChatBox_old";
+import ChatBox from "./components/ChatBox";
 import "./App.css";
 
 function App() {
