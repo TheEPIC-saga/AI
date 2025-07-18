@@ -660,7 +660,6 @@ export default ChatBox;
 ```
 </details>
 
----
 
 <details>
 <summary><code>backend/app.py</code></summary>
@@ -734,8 +733,6 @@ if __name__ == "__main__":
 
 ```
 </details>
-
----
 
 <details>
 <summary><code>backend/.env</code></summary>
