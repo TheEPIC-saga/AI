@@ -365,16 +365,6 @@ python app.py
 
 ---
 
-### ▶️ Execution Steps
-
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-```
-
----
-
 ## 🔁 Final Flow Overview
 
 ```
@@ -401,3 +391,14 @@ ChatBox.js
 ---
 
 Feel free to customize, fork, and improve!
+
+---
+
+### ▶️ Execution Steps
+
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
+---
