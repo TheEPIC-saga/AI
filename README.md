@@ -737,7 +737,7 @@ if __name__ == "__main__":
 
 ---
 
-<details>
+
 <summary><code>backend/.env</code></summary>
 
 ```
@@ -746,5 +746,4 @@ SMTP_SENDER=your_email@gmail.com
 SMTP_PASSWORD=your_email_app_password
 
 ```
-</details>
 
